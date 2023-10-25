@@ -1,3 +1,6 @@
 [submodule "matrix-abacus"]
 	path = matrix-abacus
 	url = git@github.com:Kywal/matrix-abacus.git
+[submodule "Calculadora-Acessivel"]
+	path = Calculadora-Acessivel
+	url = git@github.com:Kywal/Calculadora-Acessivel.git
